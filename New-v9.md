@@ -1,14 +1,18 @@
 {
 
-"Title": "#توجه",
+"Title": "☆  بروزرسانی جدید  ☆",
 
-"Description": "ت",
+"Description": "
 
-"Link": "tg://join?invite=FSPb61tCwOxmZGVk",
+سلام دوست عزیزم 🌺\n\n- این نسخه از کار افتاده ، نسخه جدید پرسرعت ، مود و منتشر شده رو از کانال تلگرام ما دریافت کنید 🤍",
 
-"ColorWave": "#64dd17",
+"Link": "tg://resolve?domain=Vpn_Shield",
 
-"ColorWaveTwo": "#4DD0E1",
+"ColorWave": "#FFFF00",
+
+"Color": "#FFFF00",
+
+"ColorWaveTwo": "#FFD600",
 
 "ColorBackGround": "#ffffff",
 
@@ -32,15 +36,14 @@
 
 "MessageID": "1",
 
-"ShowTime": "120",
+"ShowTime": "999",
 
-"Button": "عضویت در کانال VIP ",
+"Button": "  دریافت نسخه جدید  ",
 
 "ButtonCancell": " بعدا ",
 
-"Closure": "true",
+"Closure": "false",
 
 "Show": "on"
 
 }
-
